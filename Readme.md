@@ -1,3 +1,4 @@
+![logo](https://github.com/Talha12Shiekh/Talha12Shiekh/blob/main/BANNER.jfif)
 <h1 align="center">Hi 👋, I'm Talha KHurram</h1>
 <h3 align="center">A passionate Frontend Developer who loves to develop things using code and amaze the people</h3>
 
