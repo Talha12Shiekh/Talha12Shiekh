@@ -2,10 +2,13 @@
 <h1 align="center">Hi 👋, I'm Talha KHurram</h1>
 <h3 align="center">A passionate Frontend Developer who loves to develop things using code and amaze the people</h3>
 
-<h1 align="center">🌱 I’m currently learning **Backend Development**</h1>
-<h1 align="center">👨‍💻 All of my projects are available at [talha-khurram.netlify.app](talha-khurram.netlify.app)</h1>
-<h1 align="center">💬 Ask me about **HTML CSS JS REACT**</h1>
-<h1 align="center">📫 How to reach me **tk.shiekh4567@gmail.com**</h1>
+- 🌱 I’m currently learning **Backend Development**
+
+- 👨‍💻 All of my projects are available at [talha-khurram.netlify.app](talha-khurram.netlify.app)
+
+- 💬 Ask me about **HTML CSS JS REACT**
+
+- 📫 How to reach me **tk.shiekh4567@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
